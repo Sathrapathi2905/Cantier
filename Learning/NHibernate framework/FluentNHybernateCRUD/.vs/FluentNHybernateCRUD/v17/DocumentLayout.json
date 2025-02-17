@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|c:\\users\\user\\videos\\my project\\fluentnhybernatecrud\\fluentnhybernatecrud\\helper\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|solutionrelative:fluentnhybernatecrud\\helper\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|c:\\users\\user\\videos\\my project\\fluentnhybernatecrud\\fluentnhybernatecrud\\mappings\\empmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|solutionrelative:fluentnhybernatecrud\\mappings\\empmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|c:\\users\\user\\videos\\my project\\fluentnhybernatecrud\\fluentnhybernatecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|solutionrelative:fluentnhybernatecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|c:\\users\\user\\videos\\my project\\fluentnhybernatecrud\\fluentnhybernatecrud\\repositories\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|solutionrelative:fluentnhybernatecrud\\repositories\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|c:\\users\\user\\videos\\my project\\fluentnhybernatecrud\\fluentnhybernatecrud\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01572F3A-EE55-487A-957F-3656BBD38D60}|FluentNHybernateCRUD\\FluentNHybernateCRUD.csproj|solutionrelative:fluentnhybernatecrud\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "empcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Controllers\\empcontroller.cs",
+              "RelativeDocumentMoniker": "FluentNHybernateCRUD\\Controllers\\empcontroller.cs",
+              "ToolTip": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Controllers\\empcontroller.cs",
+              "RelativeToolTip": "FluentNHybernateCRUD\\Controllers\\empcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:04:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "emprepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Repositories\\emprepository.cs",
+              "RelativeDocumentMoniker": "FluentNHybernateCRUD\\Repositories\\emprepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Repositories\\emprepository.cs",
+              "RelativeToolTip": "FluentNHybernateCRUD\\Repositories\\emprepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:34:15.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nhibernatehelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Helper\\nhibernatehelper.cs",
+              "RelativeDocumentMoniker": "FluentNHybernateCRUD\\Helper\\nhibernatehelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Helper\\nhibernatehelper.cs",
+              "RelativeToolTip": "FluentNHybernateCRUD\\Helper\\nhibernatehelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:16:35.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empmap.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Mappings\\empmap.cs",
+              "RelativeDocumentMoniker": "FluentNHybernateCRUD\\Mappings\\empmap.cs",
+              "ToolTip": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Mappings\\empmap.cs",
+              "RelativeToolTip": "FluentNHybernateCRUD\\Mappings\\empmap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:02:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Models\\employee.cs",
+              "RelativeDocumentMoniker": "FluentNHybernateCRUD\\Models\\employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Videos\\My Project\\FluentNHybernateCRUD\\FluentNHybernateCRUD\\Models\\employee.cs",
+              "RelativeToolTip": "FluentNHybernateCRUD\\Models\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:58:51.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@FluentNHybernateCRUD_HostAddress = http://localhost:5101
+
+GET {{FluentNHybernateCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
